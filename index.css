@@ -215,6 +215,10 @@ ul {
     color: var(--skin-color);
 }
 
+.active2:focus{
+    color: var(--skin-color);
+}
+
 .aside .nav li a i {
     margin-right: 15px;
 }
