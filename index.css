@@ -385,7 +385,7 @@ h3.my-profession {
 
 .about .about-content .skills .skill-item .progress {
     background-color: var(--bg-black-50);
-    height: 7px;
+    height: 2px;
     border-radius: 4px;
     width: 100%;
     position: relative;
@@ -487,11 +487,6 @@ h3.my-profession {
 
 .experience {
     color: var(--text-black-700);
-}
-
-.my-skilly{
-    display: flex;
-    justify-content: space-between;
 }
 
 
